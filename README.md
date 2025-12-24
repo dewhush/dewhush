@@ -12,7 +12,7 @@ Designing intuitive, modern, and user-centered digital experiences.
 [💼 LinkedIn](https://www.linkedin.com/in/dewantoro-kunto-wibisono/) ·
 [🐙 GitHub](https://github.com/dewhush)
 
-<img src="https://komarev.com/ghpvc/?username=dewhush&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=dewhush&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
 
@@ -21,9 +21,9 @@ Designing intuitive, modern, and user-centered digital experiences.
 ## 👨‍💻 About Me
 
 I'm a **UI/UX Designer and Front-End Developer** based in Indonesia, currently studying **Informatics at Universitas Gunadarma**.  
-I focus on crafting **clean UI**, **meaningful UX**, and **scalable front-end architectures**.
+I specialize in building **clean user interfaces**, **meaningful user experiences**, and **scalable front-end applications**.
 
-I enjoy transforming ideas into real, usable products — from wireframes and prototypes to responsive web applications.
+I enjoy turning ideas into real, usable products — starting from **research, wireframes, and prototypes**, all the way to **responsive web implementations**.
 
 ---
 
@@ -47,28 +47,29 @@ I enjoy transforming ideas into real, usable products — from wireframes and pr
 ## 📌 Featured Project
 
 ### 🏛 Sistem Informasi Pendokumentasian Ahli Waris
-A responsive web dashboard designed to help administrative institutions manage heir documentation efficiently.
 
-**Key Features:**
-- Clean & modern UI
-- Responsive dashboard
+A responsive web-based dashboard designed to help administrative institutions manage heir documentation efficiently.
+
+**Highlights:**
+- Clean & modern interface
+- Fully responsive dashboard layout
 - User-friendly navigation
-- Built with React + TypeScript
+- Built with **React** & **TypeScript**
 
-🔗 [View Project](https://www.dewantorokuntow.web.id)
+🔗 **Project:** https://www.dewantorokuntow.web.id
 
 ---
 
 ## 📜 Certifications
 
-- **Basics of Database Design & Development** — Udemy (2024)  
+- **Basics of Database Design & Development** — Udemy (2024)
 - **Ethical Hacking: Linux Privilege Escalation** — Udemy (2024)
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm currently **open to opportunities**:
+I'm currently **open to opportunities**, including:
 - UI/UX Designer
 - Front-End Developer
 - Internship / Freelance
