@@ -62,8 +62,12 @@ A responsive web-based dashboard designed to help administrative institutions ma
 
 ## 📜 Certifications
 
-- **Basics of Database Design & Development** — Udemy (2024)
-- **Ethical Hacking: Linux Privilege Escalation** — Udemy (2024)
+- **Fundamentals of UI/UX Design** — Coursera (Microsoft) · *Dec 2025*  
+- **Introduction to UX/UI Design** — Coursera (IBM) · *Dec 2025*  
+- **Ethical Hacking: Linux Privilege Escalation** — Udemy · *Dec 2024*  
+- **Basics of Database Design & Development** — Udemy · *Dec 2024*  
+
+🔗 View all certificates: https://www.dewantorokuntow.web.id/certificates
 
 ---
 
