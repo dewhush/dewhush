@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ4Z3Z6c3ZzY3N1b2J6Z3B1a3B2d3Z2bWZ2Z3Z5Z3Z6eGZzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-UI%2FUX%20%7C%20Front--End-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 # 👋 Hi, I'm **Dewantoro Kunto Wibisono**
 
@@ -66,33 +66,12 @@ A responsive web dashboard designed to help administrative institutions manage h
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dewhush&show_icons=true&theme=transparent" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewhush&layout=compact&theme=transparent" height="160"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/dewhush/dewhush/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
-I'm open to:
-- UI/UX collaboration
-- Front-End development projects
-- Freelance & internship opportunities
+I'm currently **open to opportunities**:
+- UI/UX Designer
+- Front-End Developer
+- Internship / Freelance
 
 📫 **Email:** dewantorokuntow@gmail.com  
 🌐 **Portfolio:** https://www.dewantorokuntow.web.id  
@@ -101,6 +80,6 @@ I'm open to:
 
 <div align="center">
 
-✨ *Thanks for visiting my profile — feel free to explore my repositories!* ✨
+✨ *Open to work — let’s build something meaningful together.* ✨
 
 </div>
