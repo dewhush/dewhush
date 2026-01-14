@@ -1,5 +1,14 @@
 <div align="center">
 
+## 🤖 Auto-Follow Bot is Running 24/7
+
+![Follow Back](https://img.shields.io/badge/🔄_Follow_Me-I'll_Follow_Back-ff69b4?style=for-the-badge)
+
+**Get an instant follow back!** My bot checks every 5 minutes 🚀
+
+</div>
+<div align="center">
+
 <img src="https://img.shields.io/badge/Open%20to%20Work-UI%2FUX%20%7C%20Front--End-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 # 👋 Hi, I'm **Dewantoro Kunto Wibisono**
