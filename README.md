@@ -7,7 +7,7 @@
 Focused on building clean interfaces, meaningful experiences, and learning Python for real-world problem solving.
 
 [🌐 Portfolio](https://www.dewantorokuntow.web.id) ·
-[💼 LinkedIn](https://www.linkedin.com/in/dewantoro-kunto-wibisono/) ·
+[� LinkedIn](https://www.linkedin.com/in/dewantoro-kunto-wibisono/) ·
 [🐙 GitHub](https://github.com/dewhush)
 
 </div>
@@ -34,13 +34,11 @@ Lately, I'm exploring **Python** for automation, backend fundamentals, and probl
 ## Tech Stack
 
 **Design**
-
 * Figma
 * UI/UX Design
 * Wireframing & Prototyping
 
 **Development**
-
 * Python
 * React
 * TypeScript
@@ -53,7 +51,6 @@ Lately, I'm exploring **Python** for automation, backend fundamentals, and probl
 ## ⏱ Coding Activity (Last 7 Days)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ---
@@ -62,8 +59,19 @@ Lately, I'm exploring **Python** for automation, backend fundamentals, and probl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dewhush&show_icons=true&hide_title=true&hide_border=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dewhush&hide_border=true" height="150" />
+<a href="https://github.com/dewhush">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dewhush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+</a>
+
+<a href="https://github.com/dewhush">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dewhush&theme=tokyonight&hide_border=true&background=0d1117" />
+</a>
+
+<br/>
+
+<a href="https://github.com/dewhush">
+  <img src="https://github-profile-trophy.vercel.app/?username=dewhush&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</a>
 
 </div>
 
@@ -90,6 +98,8 @@ A responsive web-based dashboard designed to help administrative institutions ma
 🔗 [https://www.dewantorokuntow.web.id/certificates](https://www.dewantorokuntow.web.id/certificates)
 
 ---
+
+<div align="center">
 
 ## Contact
 
