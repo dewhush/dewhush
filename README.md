@@ -10,8 +10,6 @@ Focused on building clean interfaces, meaningful experiences, and learning Pytho
 [💼 LinkedIn](https://www.linkedin.com/in/dewantoro-kunto-wibisono/) ·
 [🐙 GitHub](https://github.com/dewhush)
 
-<img src="https://komarev.com/ghpvc/?username=dewhush&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
