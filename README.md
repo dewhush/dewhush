@@ -1,99 +1,103 @@
 <div align="center">
 
-## 🤖 Auto-Follow Bot is Running 24/7
-
-![Follow Back](https://img.shields.io/badge/🔄_Follow_Me-I'll_Follow_Back-ff69b4?style=for-the-badge)
-
-**Get an instant follow back!** My bot checks every 5 minutes 🚀
-
-</div>
-<div align="center">
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-UI%2FUX%20%7C%20Front--End-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-
 # 👋 Hi, I'm **Dewantoro Kunto Wibisono**
 
 **UI/UX Designer · Front-End Developer · Informatics Student**
 
-Designing intuitive, modern, and user-centered digital experiences.
+Focused on building clean interfaces, meaningful experiences, and learning Python for real-world problem solving.
 
 [🌐 Portfolio](https://www.dewantorokuntow.web.id) ·
 [💼 LinkedIn](https://www.linkedin.com/in/dewantoro-kunto-wibisono/) ·
 [🐙 GitHub](https://github.com/dewhush)
 
-<img src="https://komarev.com/ghpvc/?username=dewhush&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=dewhush&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **UI/UX Designer and Front-End Developer** based in Indonesia, currently studying **Informatics at Universitas Gunadarma**.  
-I specialize in building **clean user interfaces**, **meaningful user experiences**, and **scalable front-end applications**.
+I'm a **UI/UX Designer and Front-End Developer** based in Indonesia, currently studying **Informatics at Universitas Gunadarma**.
 
-I enjoy turning ideas into real, usable products — starting from **research, wireframes, and prototypes**, all the way to **responsive web implementations**.
-
----
-
-## 🛠 Tech Stack
-
-### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-blue)
-![Wireframing](https://img.shields.io/badge/Wireframing-Process-lightgrey)
-![Prototyping](https://img.shields.io/badge/Prototyping-Interactive-purple)
-
-### 💻 Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000000?style=flat)
+Lately, I'm exploring **Python** for automation, backend fundamentals, and problem solving, while still working with modern front-end technologies.
 
 ---
 
-## 📌 Featured Project
+## Current Focus
 
-### 🏛 Sistem Informasi Pendokumentasian Ahli Waris
-
-A responsive web-based dashboard designed to help administrative institutions manage heir documentation efficiently.
-
-**Highlights:**
-- Clean & modern interface
-- Fully responsive dashboard layout
-- User-friendly navigation
-- Built with **React** & **TypeScript**
-
-🔗 **Project:** https://www.dewantorokuntow.web.id
+* 🐍 Python (automation, scripting, backend basics)
+* ⚛️ React & TypeScript
+* 🎨 UI/UX Design with Figma
+* 📱 Responsive & accessible interfaces
 
 ---
 
-## 📜 Certifications
+## Tech Stack
 
-- **Fundamentals of UI/UX Design** — Coursera (Microsoft) · *Dec 2025*  
-- **Introduction to UX/UI Design** — Coursera (IBM) · *Dec 2025*  
-- **Ethical Hacking: Linux Privilege Escalation** — Udemy · *Dec 2024*  
-- **Basics of Database Design & Development** — Udemy · *Dec 2024*  
+**Design**
 
-🔗 View all certificates: https://www.dewantorokuntow.web.id/certificates
+* Figma
+* UI/UX Design
+* Wireframing & Prototyping
+
+**Development**
+
+* Python
+* React
+* TypeScript
+* Tailwind CSS
+* Vite
+* shadcn/ui
+
+---
+
+## ⏱ Coding Activity (Last 7 Days)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ---
 
-## 🤝 Let's Connect
-
-I'm currently **open to opportunities**, including:
-- UI/UX Designer
-- Front-End Developer
-- Internship / Freelance
-
-📫 **Email:** dewantorokuntow@gmail.com  
-🌐 **Portfolio:** https://www.dewantorokuntow.web.id  
-
----
+## GitHub Activity
 
 <div align="center">
 
-✨ *Open to work — let’s build something meaningful together.* ✨
+<img src="https://github-readme-stats.vercel.app/api?username=dewhush&show_icons=true&hide_title=true&hide_border=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dewhush&hide_border=true" height="150" />
+
+</div>
+
+---
+
+## Featured Project
+
+### Sistem Informasi Pendokumentasian Ahli Waris
+
+A responsive web-based dashboard designed to help administrative institutions manage heir documentation efficiently.
+
+**Built with:** React, TypeScript
+🔗 [https://www.dewantorokuntow.web.id](https://www.dewantorokuntow.web.id)
+
+---
+
+## Certifications
+
+* Fundamentals of UI/UX Design — Coursera (Microsoft)
+* Introduction to UX/UI Design — Coursera (IBM)
+* Ethical Hacking: Linux Privilege Escalation — Udemy
+* Basics of Database Design & Development — Udemy
+
+🔗 [https://www.dewantorokuntow.web.id/certificates](https://www.dewantorokuntow.web.id/certificates)
+
+---
+
+## Contact
+
+📫 **Email:** [dewantorokuntow@gmail.com](mailto:dewantorokuntow@gmail.com)
+🌐 **Portfolio:** [https://www.dewantorokuntow.web.id](https://www.dewantorokuntow.web.id)
+
+✨ *Open to internship, freelance, or full-time opportunities.*
 
 </div>
