@@ -48,35 +48,6 @@ Lately, I'm exploring **Python** for automation, backend fundamentals, and probl
 
 ---
 
-## ⏱ Coding Activity (Last 7 Days)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/dewhush">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dewhush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-</a>
-
-<a href="https://github.com/dewhush">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dewhush&theme=tokyonight&hide_border=true&background=0d1117" />
-</a>
-
-<br/>
-
-<a href="https://github.com/dewhush">
-  <img src="https://github-profile-trophy.vercel.app/?username=dewhush&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</a>
-
-</div>
-
----
-
 ## Featured Project
 
 ### Sistem Informasi Pendokumentasian Ahli Waris
