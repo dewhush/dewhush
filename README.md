@@ -1,82 +1,22 @@
-<div align="center">
+# 👨‍💻 Dewantoro Kunto Wibisono
 
-# 👋 Hi, I'm **Dewantoro Kunto Wibisono**
+> **"Building interfaces for humans and logic for machines."**
 
-**UI/UX Designer · Front-End Developer · Informatics Student**
-
-Focused on building clean interfaces, meaningful experiences, and learning Python for real-world problem solving.
-
-[🌐 Portfolio](https://www.dewantorokuntow.web.id) ·
-[� LinkedIn](https://www.linkedin.com/in/dewantoro-kunto-wibisono/) ·
-[🐙 GitHub](https://github.com/dewhush)
-
-</div>
+I am a **Front-End Developer & UI/UX Designer** based in **Indonesia 🇮🇩**.
+Currently specializing in **Python Automation**, **Autonomous Agents**, and **UI/UX Design**.
 
 ---
 
-## About Me
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-I'm a **UI/UX Designer and Front-End Developer** based in Indonesia, currently studying **Informatics at Universitas Gunadarma**.
+### 🚀 Highlight: Dew Protocols (@dewprotocols)
+*An autonomous agent that never sleeps.*
+- **Dual-Loop Engine**: Analyzes market pulse 24/7.
+- **AI-Driven**: Synthesizes whale movements into human-like insights.
+- **Status**: Live & Operating.
 
-Lately, I'm exploring **Python** for automation, backend fundamentals, and problem solving, while still working with modern front-end technologies.
-
----
-
-## Current Focus
-
-* 🐍 Python (automation, scripting, backend basics)
-* ⚛️ React & TypeScript
-* 🎨 UI/UX Design with Figma
-* 📱 Responsive & accessible interfaces
-
----
-
-## Tech Stack
-
-**Design**
-* Figma
-* UI/UX Design
-* Wireframing & Prototyping
-
-**Development**
-* Python
-* React
-* TypeScript
-* Tailwind CSS
-* Vite
-* shadcn/ui
-
----
-
-## Featured Project
-
-### Sistem Informasi Pendokumentasian Ahli Waris
-
-A responsive web-based dashboard designed to help administrative institutions manage heir documentation efficiently.
-
-**Built with:** React, TypeScript
-🔗 [https://www.dewantorokuntow.web.id](https://www.dewantorokuntow.web.id)
-
----
-
-## Certifications
-
-* Fundamentals of UI/UX Design — Coursera (Microsoft)
-* Introduction to UX/UI Design — Coursera (IBM)
-* Ethical Hacking: Linux Privilege Escalation — Udemy
-* Basics of Database Design & Development — Udemy
-
-🔗 [https://www.dewantorokuntow.web.id/certificates](https://www.dewantorokuntow.web.id/certificates)
-
----
-
-<div align="center">
-
-## Contact
-
-📫 **Email:** [dewantorokuntow@gmail.com](mailto:dewantorokuntow@gmail.com)
-🌐 **Portfolio:** [https://www.dewantorokuntow.web.id](https://www.dewantorokuntow.web.id)
-
-✨ *Open to internship, freelance, or full-time opportunities.*
-
-</div>
+[🌐 Portfolio](https://www.dewantorokuntow.web.id) | [📫 Contact](mailto:dewantorokuntow@gmail.com)
